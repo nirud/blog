@@ -1,0 +1,35 @@
+baseURL = "http://nilsrudolph.de/"
+languageCode = "en-us"
+title = "Nils Rudolph"
+theme = "hermit"
+
+[params]
+  dateform        = "2 Jan, 2006"
+  dateformShort   = "2 Jan"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  homeSubtitle = "Software Developer"
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/CodingNils"
+
+  [[params.social]]
+    name = "github"
+	url = "https://github.com/nirud"
+
+[menu]
+
+#  [[menu.main]]
+#    name = "Posts"
+#    url = "/posts/"
+#    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+	weight = 20
