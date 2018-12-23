@@ -1,4 +1,4 @@
-baseURL = "http://nilsrudolph.de/"
+baseURL = "https://blog.nilsrudolph.de/"
 languageCode = "en-us"
 title = "Nils Rudolph"
 theme = "hermit"
