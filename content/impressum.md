@@ -4,20 +4,20 @@ date: 2018-12-24T13:08:02+01:00
 ---
 Angaben gemäß § 5 TMG
 
-Nils Rudolph
-Libellenweg 22
-23562 Lübeck
+Nils Rudolph  
+Libellenweg 22  
+23562 Lübeck  
 
-Vertreten durch:
+Vertreten durch:  
 Nils Rudolph
 
-Kontakt:
-Telefon: +49 451 58697310
+Kontakt:  
+Telefon: +49 451 58697310  
 E-Mail: mail@nilsrudolph.de
 
-Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-Nils Rudolph
-Libellenweg 22
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:  
+Nils Rudolph  
+Libellenweg 22  
 23562 Lübeck
 
 Haftungsausschluss:
