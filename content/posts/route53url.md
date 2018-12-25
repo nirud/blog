@@ -23,5 +23,4 @@ First create a S3 bucket, the name has to be the same as the domain you want to 
 
 Now you can add an A record for your domain in Route 53. Set "Alias" to "yes" and choose your new S3 bucket as "Alias Target". 
 
-Note: You have to wait a some time after you create the S3 Bucket to choose it as alias in Route 53.
-
+**Note:** You have to wait a some time after you create the S3 Bucket to choose it as alias in Route 53.
